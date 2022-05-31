@@ -1,0 +1,7 @@
+#Robocode robot team
+#Tue May 31 20:23:20 BRT 2022
+team.description=o trio de doutrinadores
+robocode.version=1.9.4.5
+team.author.name=
+team.version=
+team.members=doutrinador.Doutrinador*,doutrinador.Doutrinador*,doutrinador.Doutrinador*
